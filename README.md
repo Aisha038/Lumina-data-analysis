@@ -5,6 +5,8 @@
 ---
 
 ## 📸 App in Action
+DEPLOYMENT LINK
+https://lumina-data-analysis.vercel.app/
 
 ![Data Cleaner & Dashboard Screenshot](./src/assets/images/dashboard_screenshot_1785086946828.jpg)
 
