@@ -1,0 +1,8 @@
+{
+  "name": "Data Cleaner & Dashboard",
+  "description": "Upload CSV and Excel files, clean data, build interactive dashboards, and download AI-powered summary reports as PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
